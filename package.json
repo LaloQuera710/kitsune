@@ -41,7 +41,7 @@
     "d3": "^3.5.17",
     "graphql": "^16.8.1",
     "jquery": "^3.6.3",
-    "jquery-ui": "1.13.2",
+    "jquery-ui": "1.13.3",
     "nunjucks": "^3.2.4",
     "svelte-navigator": "^3.2.2",
     "underscore": "^1.13.6"
